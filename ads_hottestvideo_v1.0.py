@@ -93,5 +93,3 @@ with open("running_time_hottest_log.txt","a") as f:
     f.write(sen)
 f.close()
 
-print("Hello World")
-print("Hello test")
